@@ -21,11 +21,11 @@
   // HEROKU DB2
 
   $db2 = parse_url(getenv("HEROKU_POSTGRESQL_CHARCOAL_URL"));
-  $host2 = $db1["host"];
-  $port2 = $db1["port"];
-  $user2 = $db1["user"];
-  $password2 = $db1["pass"];
-  $database2 = ltrim($db1["path"], "/");
+  $host2 = $db2["host"];
+  $port2 = $db2["port"];
+  $user2 = $db2["user"];
+  $password2 = $db2["pass"];
+  $database2 = ltrim($db2["path"], "/");
 
 
 ?>
