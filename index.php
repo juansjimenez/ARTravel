@@ -97,7 +97,7 @@ require __DIR__ . '/vendor/autoload.php';
       <p class="m-0 text-center text-white small"></p>
     </div>
     <!-- /.container -->
-    <p style="color:white"> <strong> Made with ⚡ by juansjimenez </strong></p>
+    <p style="color:white"> <strong> Made with ⚡ by juansjimenez and danustilovsky </strong></p>
   </footer>
 
   <!-- Bootstrap core JavaScript -->
