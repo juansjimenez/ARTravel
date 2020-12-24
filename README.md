@@ -6,7 +6,7 @@
 An Art and Travel app made with PHP, connected to an API (which can be found in this profile as ARTravel-API), hosted on Heroku.
 
 <p align="center">
-  <img width="80%" src=https://github.com/juansjimenez/ARTravel/blob/master/ARTravel.PNG>
+  <img width="80%" src=https://github.com/juansjimenez/ARTravel/blob/main/ARTravel.PNG>
 </p>
 
 ## Getting Started
