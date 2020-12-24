@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://rocky-badlands-03545.herokuapp.com/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 
-An Art and Travel app made with PHP, connected to an API (which can be found in this profile as ARTravel-API), hosted on Heroku.
+An Art and Travel app made with PHP, connected to an API (which can be found in this profile as [ARTravel-API](https://github.com/juansjimenez/ARTravel-API)), hosted on Heroku.
 
 <p align="center">
   <img width="80%" src=https://github.com/juansjimenez/ARTravel/blob/main/ARTravel.PNG>
