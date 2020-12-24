@@ -20,7 +20,7 @@ No prerequisites are needed, you can check out the app demo [here](https://art-t
 
 ## Authors
 
-* **@Juan379** 
+* **@juansjimenez** 
 * **@danustilovsky**
 
 ## License
