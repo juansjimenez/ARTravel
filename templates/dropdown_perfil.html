@@ -1,0 +1,32 @@
+<div class="collapse navbar-collapse" id="navbarResponsive">
+  <?php  if($_SESSION["loggedin"]) {?>
+  <ul class="navbar-nav ml-auto">
+    <li class="nav-item">
+      <a class="nav-link" href="./profile.php">My profile</a>
+    </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Opciones</a>
+          <div class="dropdown-menu">
+              <a class="dropdown-item" href="./enviados.php">Mensajes Enviados</a>
+              <a class="dropdown-item" href="./recibidos.php">Mensajes Recibidos</a>
+              <a class="dropdown-item" href="./datos_enviar.php">Enviar mensaje</a>
+              <a class="dropdown-item" href="./datos_text.php">Buscar mensaje</a>
+              <a class="dropdown-item" href="./fechas_mapa.php">Mapa de lugares</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./logout.php">Log Out</a>
+          </div>
+      </li>
+  </ul>
+  <?php } else { ?>
+  <ul class="navbar-nav ml-auto">
+    <li class="nav-item">
+      <a class="nav-link" href="./register.php">Sign Up</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="./login.php">Log In</a>
+    </li>
+  </ul>
+  <?php } ?>
+</div>
+</div>
+</nav>
