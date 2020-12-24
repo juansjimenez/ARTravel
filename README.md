@@ -15,7 +15,7 @@ No prerequisites are needed, you can check out the app demo [here](https://art-t
 
 ## Built With
 
-* [PHP](https://www.php.net/) - Programming language
+* [PHP](https://www.php.net/) - Programming Language
 * [Postgresql](https://www.postgresql.org/) - SQL Database Engine
 
 ## Authors
